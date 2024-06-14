@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypticoder0&label=Profile%20views&color=0e75b6&style=flat" alt="crypticoder0" /> </p>
 
-- 🌱 I’m currently learning **NED University Of Engineering & Technology**
+- 🌱 I’m currently learning **Computational Finance**
 
 - 💬 Ask me about **Excel, Python, DSA**
 
